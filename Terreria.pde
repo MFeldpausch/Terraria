@@ -17,6 +17,7 @@ setup = function()
 draw = function()
 {
 	stroke(#000000);
+	fill(#000000);
 	text("There is nothing here right now.  However, this text is being draw on the canvas that the game will be put on.", 10, 10);
 	noLoop();
 };

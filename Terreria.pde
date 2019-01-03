@@ -11,6 +11,7 @@ setup = function()
 	background(#FFFFFF);
 	console.log("I have landed!");
 	stroke(#000000);
+	main();
 };
 
 draw = function()
